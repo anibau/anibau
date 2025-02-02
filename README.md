@@ -66,7 +66,10 @@ Aspiro a consolidarme como Desarrolladora Back-End, contribuyendo en proyectos i
 
 ## Conéctate conmigo:
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://github.com/anibau) 
+<a href="https://www.linkedin.com/in/miriam-bautista-torres-b4bba01ab/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />
+</a>
+
 <a href="mailto:miriambt678@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>
