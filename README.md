@@ -24,7 +24,9 @@ Aspiro a consolidarme como Desarrolladora Back-End, contribuyendo en proyectos i
 #### Languages:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-3446AB?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-3796AB?style=for-the-badge&logo=c++&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
